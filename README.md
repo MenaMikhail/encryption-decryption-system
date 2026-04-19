@@ -61,5 +61,16 @@ g++ main.cpp -o app
 - Build a GUI version of the tool
 - Improve input validation and error handling
 
+## 📊 Example
+
+Input:
+HELLO WORLD
+
+Encrypted (Rail Fence):
+HOLEL WRDLO
+
+Decrypted:
+HELLO WORLD
+
 ## 👤 Author
 Mena Mikhail
