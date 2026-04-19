@@ -1,8 +1,7 @@
 /*
    Name: Mena Mikhail
    Class: Network Security (CSCI-4400)
-   Professor: Dr. Yi Gu
-   Program: (Option 2: Symmetric Encryption/Decryption)This program demonstrates two encryption techniques (polyalphabetic and rail fence), reads plaintext from a file, encrypts and decrypts it using both methods,
+   Program: (Symmetric Encryption/Decryption)This program demonstrates two encryption techniques (polyalphabetic and rail fence), reads plaintext from a file, encrypts and decrypts it using both methods,
    and writes the results to an output file while taking one parameter (rail depth) from the user.  
 */
 
