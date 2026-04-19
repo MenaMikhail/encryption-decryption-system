@@ -1,0 +1,4 @@
+Polyalphabetic Encrypted: pfzthsdffgkclz
+Polyalphabetic Decrypted: helloeverybody
+Rail Fence Encrypted: hordeleeyoylvb
+Rail Fence Decrypted: helloeverybody
